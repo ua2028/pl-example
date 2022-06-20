@@ -1,0 +1,19 @@
+{
+  "name": "pl-tests",
+  "version": "1.0.0",
+  "description": "An example running Playwright tests",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@playwright/test": "^1.20.0",
+    "allure-playwright": "^2.0.0-beta.15",
+    "await-sleep": "0.0.1",
+    "dotenv": "^10.0.0",
+    "playwright": "^1.20.0"
+  },
+  "devDependencies": {},
+  "_moduleAliases": {}
+}
